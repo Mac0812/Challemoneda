@@ -1,4 +1,4 @@
-Challenge Cinco de Seis | Formación Java Orientado a Objetos | Conversor de Moneda
+ Formación Java Orientado a Objetos | Conversor de Moneda
 
 <h1 align="center">:currency_exchange: Conversor de Moneda ☕</h1>
 
@@ -53,9 +53,6 @@ https://github.com/topics/challengeoneconversorlatam
    - ![JAR](https://img.shields.io/badge/Okio--1.12.0-JAR-blue) <a href="https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/okio-1.12.0.jar">Okio-1.12.0</a>
    - ![JAR](https://img.shields.io/badge/JSON--In--Java--20220320-JAR-blue) <a href="https://repo1.maven.org/maven2/org/json/json/20220320/json-20220320.jar">JSON In Java-20220320</a>
 
-**Demo:**
-
-![Gif demo de Conversión de Moneda](https://raw.githubusercontent.com/EduardoUT/ConversorMoneda-ONE-Alura_Challenge/master/src/Imagenes/conversorMonedaDemo.gif)
 
 
 **Requisitos Proyecto:**

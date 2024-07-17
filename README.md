@@ -57,13 +57,6 @@ https://github.com/topics/challengeoneconversorlatam
 
 ![Gif demo de Conversión de Moneda](https://raw.githubusercontent.com/EduardoUT/ConversorMoneda-ONE-Alura_Challenge/master/src/Imagenes/conversorMonedaDemo.gif)
 
-**Vista Previa 👁️:**
-
-![Vista Previa Interfaz Conversor de Moneda](https://raw.githubusercontent.com/EduardoUT/ConversorMoneda-ONE-Alura_Challenge/master/src/Imagenes/interfazcurrency.PNG)
-
-![Vista Previa Interfaz Conversor de Temperatura](https://raw.githubusercontent.com/EduardoUT/ConversorMoneda-ONE-Alura_Challenge/master/src/Imagenes/interfaztemperatura.PNG)
-
-En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje Java. Las características solicitadas por nuestro cliente son las siguientes:
 
 **Requisitos Proyecto:**
 

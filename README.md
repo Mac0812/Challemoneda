@@ -1,6 +1,5 @@
  Formación Java Orientado a Objetos | Conversor de Moneda
 
-<h1 align="center">:currency_exchange: Conversor de Moneda ☕</h1>
 
 ![Challenge Oracle Next Education + Alura Banner](https://raw.githubusercontent.com/EduardoUT/ConversorMoneda-ONE-Alura_Challenge/master/src/Imagenes/challengeImage.jpg)
 
